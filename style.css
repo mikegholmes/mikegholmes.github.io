@@ -1,6 +1,42 @@
-h1 {color: blueviolet;}
+body {
+
+    font-family: Arial, sans-serif;
+
+    background-image: url('desert-background.jpg'); /* Replace with your desert image */
+
+    background-size: cover;
+
+    background-repeat: no-repeat;
+
+    color: #fff;
+
+    padding: 20px;
+
+}
 
 
-h2  {color: red;}
+header {
+
+    text-align: center;
+
+}
 
 
+section {
+
+    margin-bottom: 20px;
+
+    padding: 20px;
+
+    background-color: rgba(0, 0, 0, 0.7);
+
+    border-radius: 10px;
+
+}
+
+
+footer {
+
+    text-align: center;
+
+}
